@@ -18,6 +18,7 @@ public class Ingsof_20202 {
         System.out.println("bienvenidos");
         System.out.println("integrando netbeans con github");
         System.out.println("linea adicionada desde github");
+        System.out.println("version 1.1 modificada desde github");
     }
     
 }
