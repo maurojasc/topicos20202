@@ -17,6 +17,7 @@ public class Ingsof_20202 {
     public static void main(String[] args) {
         System.out.println("bienvenidos");
         System.out.println("integrando netbeans con github");
+        System.out.println("linea adicionada desde github");
     }
     
 }
